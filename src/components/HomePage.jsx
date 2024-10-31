@@ -70,7 +70,7 @@ function HomePage() {
       <div className="flex justify-center my-2">
         {/* Button to claim the gift card */}
         <motion.a
-          href="https://smrturl.co/o/610841/53356127?s1=Mcweb" // Link to claim the gift card
+          href="https://smrturl.co/a/s39ab0beb7b/849?s1=Sabbir01" // Updated link to claim the gift card
           target="_blank" // Open link in a new tab
           className="bg-[#fcb808] text-[#292929] px-10 md:px-12 py-2 rounded-md 
                 my-4 
@@ -117,7 +117,7 @@ function HomePage() {
           <div className="flex flex-col justify-center my-4">
             {/* Button to get the Chicken Big Mac for free */}
             <motion.a  
-              href="https://smrturl.co/o/610841/53356127?s1=Mcweb" // Link to get the Chicken Big Mac
+              href="https://smrturl.co/a/s39ab0beb7b/849?s1=Sabbir01" // Updated link to get the Chicken Big Mac
               className="bg-[#fcb808] text-[#292929] px-8 md:px-12 py-4 rounded-md 
                    text-lg
                    font-semibold
@@ -165,7 +165,7 @@ function HomePage() {
           <div className="flex flex-col justify-center my-4">
             {/* Button to get a free Big Mac */}
             <motion.a
-              href="https://smrturl.co/o/610841/53356127?s1=Mcweb" // Link to get the free Big Mac
+              href="https://smrturl.co/a/s39ab0beb7b/849?s1=Sabbir01" // Updated link to get the free Big Mac
               className="bg-[#fcb808] text-[#292929] px-8 md:px-12 py-4 rounded-md 
                    text-lg
                    font-semibold

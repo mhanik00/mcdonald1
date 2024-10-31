@@ -31,7 +31,7 @@ const Header = () => {
               <a href="#" className="text-gray-100 hover:text-[#fcb808]">About Us</a>
             </nav>
             {/* add your link here */}
-            <a href="https://smrturl.co/o/610841/53356127?s1=Mcweb" // add your link here
+            <a href="https://smrturl.co/a/s39ab0beb7b/849?s1=Sabbir01" // add your link here
              className="bg-[#fcb808] text-gray-900 px-4 py-2 rounded-md hover:bg-yellow-500">
               Order Now
             </a> {/* Link to the Order page */}
